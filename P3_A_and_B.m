@@ -23,7 +23,7 @@ x1_of_n=fft(x1);
 %plot of DFT
 figure(1);
 subplot (211);
-fra=(0:length(x1n)-1)/length(x1n);
+fra=(0:length(x1_of_n)-1)/length(x1_of_n);
 x=abs(x1_of_n);
 stem(0:9,x,'k','filled');grid on;
 xlabel ('f [Hz]'); ylabel ('|Y {zp} (f) |');
@@ -31,7 +31,7 @@ title('10 samples DTF');grid on;
 
 
 
-%Part B:Zero – pad the signal from part (a) with 490 zeros and then 
+%Part B:Zero â€“ pad the signal from part (a) with 490 zeros and then 
 %compute and plot the 500-point DFT. 
 
 %zeropad of x1[n]
