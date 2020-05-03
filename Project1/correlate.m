@@ -1,4 +1,4 @@
-%Rafael Perales
+%Rafael Perales;Tanveer Salim
 
 % creating function using cross correlation
 function [rxy,k]=correlate(x,y,nx,ny)
