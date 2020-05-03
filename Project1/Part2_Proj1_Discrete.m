@@ -1,7 +1,7 @@
 %% Project 1: Part 2- In this part we will investigate system response using the
 %%filter command
 
-%%Made by Rafael Perales
+%%Made by Rafael Perales; Tanveer Salim
 %Part 2
 b = [1 0 0];% setting the system for x[n] values
 a = [1,-1,1];% setting the system for y[n] values

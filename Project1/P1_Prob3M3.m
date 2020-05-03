@@ -1,4 +1,4 @@
-%Rafael Perales
+%Rafael Perales;Tanveer Salim
 
 %function x[n] = u[n ? 5] ? u[n ? 10] 
 
