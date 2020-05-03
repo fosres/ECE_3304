@@ -1,7 +1,7 @@
 %  Project 1: Part 1- This is basically a program that uses a discrete time signal
 % and represents it with a few different operations
 % Part 3- Using a convolution operation on a on two systems.
-% Made by Rafael Perales
+% Made by Rafael Perales; Tanveer Salim
 
 
 
